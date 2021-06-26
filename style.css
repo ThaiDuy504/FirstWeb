@@ -58,7 +58,7 @@ body {
   right: 0;
   width :50%;
   height: auto;
-  border-radius: 0.25em;
+  border-radius: 5rem;
   box-shadow: 0 0 2em 5em var(--clr-neon);
   opacity: 0;
   z-index: -1;
