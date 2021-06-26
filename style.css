@@ -72,11 +72,11 @@ body {
   text-shadow: none;
 }
 
-.neon-button:hover::before,
+.button:hover::before,
 .neon-button:focus::before {
   opacity: 1;
 }
-.neon-button:hover::after,
-.neon-button:focus::after {
+.button:hover::after,
+.button:focus::after {
   opacity: 1;
 }
