@@ -58,7 +58,6 @@ body {
   right: 0;
   border-radius: 0.25em;
   box-shadow: 0 0 2em 5em var(--clr-neon);
-  visibility: hidden;
   opacity: 0;
   z-index: -1;
   background-color: var(--clr-neon);
