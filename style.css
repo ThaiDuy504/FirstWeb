@@ -13,7 +13,6 @@ body {
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
 }
-/*
 
 .warp {
   display: relative;
@@ -22,7 +21,7 @@ body {
   display: absolute;
   top:50%;
   width:100;
-}*/
+}
 .button {
   cursor: pointer;
   background-color: var(--clr-bg);
