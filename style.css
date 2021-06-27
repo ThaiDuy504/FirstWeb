@@ -12,6 +12,7 @@ body {
   background: var(--clr-bg);
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
+  place-items : center;
 }
 .warp {
   display: relative;
@@ -19,8 +20,7 @@ body {
 .warp a {
   display: absolute;
   top:50%;
-  width:100%;
-  transform: translateY(-50%);
+  width:100;
 }
 .button {
   cursor: pointer;
