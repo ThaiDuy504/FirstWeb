@@ -20,7 +20,8 @@ body {
 .warp a {
   display: absolute;
   top:50%;
-  width:100;
+  width:100%;
+  
 }
 .button {
   cursor: pointer;
