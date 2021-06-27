@@ -14,9 +14,13 @@ body {
   font-family: "Balsamiq Sans", cursive;
 }
 .warp {
-  display: flex;
-  align-items: center;
-  transform : translateY(-50%);
+  display: relative;
+}
+.warp a {
+  display: absolute;
+  top:50%;
+  width:100%;
+  transform: translateY(-50%);
 }
 .button {
   cursor: pointer;
