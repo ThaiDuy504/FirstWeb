@@ -15,13 +15,9 @@ body {
 }
 
 .warp {
-  display: relative;
-}
-.warp a button{
-  display: absolute;
-  top:50%;
-  width:100%;
-  
+  width:70%;
+  margin: 0 auto;
+  max-width:1000px;
 }
 .button {
   cursor: pointer;
