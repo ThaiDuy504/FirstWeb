@@ -16,8 +16,7 @@ body {
 .warp {
   display: flex;
   align-items: center;
-  justify-content: center;
-  
+  transform : translateY(-50%);
 }
 .button {
   cursor: pointer;
