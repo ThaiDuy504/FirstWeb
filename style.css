@@ -12,8 +12,10 @@ body {
   background: var(--clr-bg);
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
-  place-items : center;
+  place-content : center;
 }
+/*
+
 .warp {
   display: relative;
 }
@@ -21,7 +23,7 @@ body {
   display: absolute;
   top:50%;
   width:100;
-}
+}*/
 .button {
   cursor: pointer;
   background-color: var(--clr-bg);
