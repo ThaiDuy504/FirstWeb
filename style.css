@@ -14,10 +14,10 @@ body {
   font-family: "Balsamiq Sans", cursive;
 }
 .warp {
-  text-align: center;
-  padding-top: 22%;
-  padding-bottom: auto;
+  display: flex;
   align-items: center;
+  justify-items: center;
+  
 }
 .button {
   cursor: pointer;
