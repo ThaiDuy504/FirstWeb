@@ -17,7 +17,7 @@ body {
 .warp {
   display: relative;
 }
-.warp a {
+.warp a button{
   display: absolute;
   top:50%;
   width:100%;
