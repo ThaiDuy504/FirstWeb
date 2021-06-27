@@ -13,12 +13,12 @@ body {
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
 }
-
+/*
 .warp {
   width:70%;
   margin: 0 auto;
   max-width:1000px;
-}
+}*/
 .button {
   cursor: pointer;
   background-color: var(--clr-bg);
