@@ -17,6 +17,7 @@ body {
   text-align: center;
   padding-top: 22%;
   padding-bottom: auto;
+  align-items: center;
 }
 .button {
   cursor: pointer;
