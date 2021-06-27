@@ -12,7 +12,6 @@ body {
   background: var(--clr-bg);
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
-  place-content : center;
 }
 /*
 
