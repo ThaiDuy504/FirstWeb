@@ -28,10 +28,9 @@ body {
   border-radius: 5em;
   display: absolute;
   top:50%
-  
-  padding: 0.25em 1em;
+  /*padding: 0.25em 1em;*/
   font-size: 20px;
-  width: 100%;
+  width: fit-content;
   height: 50px;
   text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
   box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
