@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 body {
-  display: grid;
+  display: relative;
   background: var(--clr-bg);
   color: var(--clr-neon);
   font-family: "Balsamiq Sans", cursive;
@@ -26,10 +26,12 @@ body {
   color: var(--clr-neon);
   border: currentColor solid 0.25em;
   border-radius: 5em;
-  display: inline-block;
+  display: absolute;
+  top:50%
+  
   padding: 0.25em 1em;
   font-size: 20px;
-  width: fit-content;
+  width: 100%;
   height: 50px;
   text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
   box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
